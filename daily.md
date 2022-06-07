@@ -17,5 +17,9 @@
 
 ## 6/2/2022
 ### 使用go语言实现控制显示器ddc/ci
-- https://github.com/gek64/ddcci
+- https://github.com/gek64/monitor-tools
 - 尝试使用syscall加载windows系统库来获取显示器地址
+
+## 6/7/2022
+- 学习了如何使用go语言加载dll文件并执行里面的函数
+- https://github.com/gek64/monitor-tools 初步完成了寻找所有的显示器的句柄，及获取显示器信息的功能函数
