@@ -23,3 +23,9 @@
 ## 6/7/2022
 - 学习了如何使用go语言加载dll文件并执行里面的函数
 - https://github.com/gek64/monitor-tools 初步完成了寻找所有的显示器的句柄，及获取显示器信息的功能函数
+
+## 6/15/2022
+- 😀 写完 https://github.com/gek64/displayController 了，可以准备开始写cli了🤪
+
+## 6/17/2022
+- 🧐 开始写 https://github.com/gek64/dccli 了，完成了基本的显示物理显示器数据的功能
