@@ -7,4 +7,4 @@
 - 👨‍💻 I’m currently working on open source
 - 🦾 I’m currently use golang, typescript in my projects
 - 🌈 I’m currently learning nodejs and electron
-- 👑 My daily learning and working [process tracker](https://github.com/gek64/gek64/blob/main/daily.md)
+- 👑 Check out my [bolg](https://gek64.github.io/blog) for all the things I do
