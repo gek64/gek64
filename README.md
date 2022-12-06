@@ -5,6 +5,6 @@
 
 ### Projects 🎰
 - 👨‍💻 I’m currently working on open source
-- 🦾 I’m currently use golang, typescript in my projects
-- 🌈 I’m currently learning nodejs and electron
+- 🦾 I’m currently use golang, python in my projects
+- 🌈 I’m currently learning iot
 - 👑 Check out my [bolg](https://gek64.github.io/blog) for all the things I do
