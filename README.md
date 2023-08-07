@@ -1,10 +1,7 @@
 ### Hi there 👋
-- ♥️ Open Source Programmer, Like to play video games and watch anime
-- 🌐 Know English, Chinese and a little Japanese
+- ♥️ Open Source Programmer, Like to play video games
 - 😎 Feel free to talk to me
 
 ### Projects 🎰
 - 👨‍💻 I’m currently working on open source
-- 🦾 I’m currently use golang, python, nodejs in my projects
-- 🌈 I’m currently learning golang, python, nodejs
-- 👑 Check out my [bolg](https://gek64.github.io/blog) for all the things I do
+- 🦾 I’m currently use golang, nodejs in my projects
