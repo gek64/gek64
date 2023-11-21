@@ -1,5 +1,5 @@
 ### Hi there 👋
-- ♥️ Open Source Programmer, Like to play video games
+- ♥️ Open Source Programmer
 - 😎 Feel free to talk to me
 
 ### Projects 🎰
